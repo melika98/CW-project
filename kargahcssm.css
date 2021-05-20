@@ -1,0 +1,41 @@
+body{
+	background-image: url("picc.jpg");
+	background-repeat: repeat-y;
+	background-color: white;
+	background-position: right top;
+}
+h1{
+	color:#4D0099;
+	font-size:30pt;
+}
+h2{
+	color:#5900B3;
+	font-size:20pt;
+}
+h3{
+	color:#5900B3;
+	font-size:15pt;
+}
+div{
+	width: 700px;
+	border: 3px ;
+	padding: 10px;
+	margin: 20px;
+	color: #A64DFF;
+}
+.list{
+	color: #A64DFF;
+	font-size:13pt;
+	width: 700px;
+	border: 3px ;
+	padding: 10px;
+	margin: 20px;
+}
+.Disscotion{
+	color: #A64DFF;
+	font-size:10pt;
+}
+p{
+	color: #A64DFF;
+	font-size:13pt;
+}
